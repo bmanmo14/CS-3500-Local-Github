@@ -1,0 +1,11 @@
+C:\Users\Bmanmo14\Source\Repos\00962682\PS1\FormulaEvaluatorTester\bin\Debug\FormulaEvaluatorTester.exe.config
+C:\Users\Bmanmo14\Source\Repos\00962682\PS1\FormulaEvaluatorTester\bin\Debug\FormulaEvaluatorTester.exe
+C:\Users\Bmanmo14\Source\Repos\00962682\PS1\FormulaEvaluatorTester\bin\Debug\FormulaEvaluatorTester.pdb
+C:\Users\Bmanmo14\Source\Repos\00962682\PS1\FormulaEvaluatorTester\bin\Debug\FormulaEvaluator.dll
+C:\Users\Bmanmo14\Source\Repos\00962682\PS1\FormulaEvaluatorTester\bin\Debug\FormulaEvaluator.pdb
+C:\Users\Bmanmo14\Source\Repos\00962682\PS1\FormulaEvaluatorTester\obj\Debug\FormulaEvaluatorTester.csprojResolveAssemblyReference.cache
+C:\Users\Bmanmo14\Source\Repos\00962682\PS1\FormulaEvaluatorTester\obj\Debug\FormulaEvaluatorTester.exe
+C:\Users\Bmanmo14\Source\Repos\00962682\PS1\FormulaEvaluatorTester\obj\Debug\FormulaEvaluatorTester.pdb
+C:\Users\Bmanmo14\Source\Repos\CS-3500-Local-Github\PS1\FormulaEvaluatorTester\bin\Debug\FormulaEvaluatorTester.exe.config
+C:\Users\Bmanmo14\Source\Repos\CS-3500-Local-Github\PS1\FormulaEvaluatorTester\obj\Debug\FormulaEvaluatorTester.exe
+C:\Users\Bmanmo14\Source\Repos\CS-3500-Local-Github\PS1\FormulaEvaluatorTester\obj\Debug\FormulaEvaluatorTester.pdb
